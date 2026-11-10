@@ -1,0 +1,1 @@
+Abra index.html mantendo a pasta assets no mesmo diretório. Versão com logos oficiais, segmentação comercial e formulário com perfil obrigatório. O briefing é exportado localmente; não há envio a servidor. WhatsApp flutuante permanece inativo.
